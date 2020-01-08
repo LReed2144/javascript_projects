@@ -1,1 +1,1 @@
-cf.js
+console.log('it works!');
