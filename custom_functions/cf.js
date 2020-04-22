@@ -1,7 +1,4 @@
-function doctorize(firstName) {
-  return `Dr. ${firsttName}`;
+function inchToCM(inches) {
+  const cm = inches * 2.54;
+  return cm;
 }
-console.log(doctorize(lyndsey));
- // const doctorize = function(firstName) {
- //  return`Dr. ${firstName}`;
- // };
